@@ -1,6 +1,6 @@
 <template>
     <div>
-        Your page not found {{ error.statusCode }}
+        Your page not found Boy i love you {{ error.statusCode }}
     </div>
 
 </template>
